@@ -1,4 +1,15 @@
-🚀 Ready to create your very own "Ask Her Out" website? 
-Join me in this step-by-step HTML tutorial where we'll design and code a personalized site to help you pop the question! 
-From layout to interactive features, I've got you covered. 
-No coding experience required - let's make your proposal unforgettable! 💻💘 #WebDevelopment #HTMLTutorial #LoveInTheCode
+Planning to invite your crush on a date, then you should try "Invitation for Valentine" HTML program. 
+
+This project will show a pop question inviting her/him to a date.
+Whenever the cursos/mouse move to the "NO" section, the "NO" bottom will move, making not possible to press "NO"
+leaving the partner with the only option of "YES". 
+
+Please follow the steps as described below: 
+1) Simply send the file to your partner
+2) Download and open file invitation for Valentine / index.html
+3) Enjoy!
+
+Simple project and with basic foundations of HTML / CSS you are able to modify pictures and content. 
+
+=========== 100% chance to be told YES =========== 
+=========== Programmed to be a YES     ===========
